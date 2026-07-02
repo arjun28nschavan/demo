@@ -1,5 +1,4 @@
-const sum = require('./sum');
-
+import sum from './sum.js';
 
 describe("test for sum fnx", () =>{
     test("adds 2 + 2 to equal 4", () => {
